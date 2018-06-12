@@ -1,7 +1,7 @@
 # Hitchhikers_Guide_to_Substratum_Node_on_Raspberry_Pi
 *You are reading the FIRST unofficial guide to compile and run Substratum Node on Raspberry Pi!*
 
-Please refer to the original post on steemit & utopian.io for the guide featuring video and images, at https://steemit.com/utopian-io/@microoo/hitchhiker-s-guide-to-substratum-node-on-raspberry-pi
+Please refer to the original post on steemit & utopian.io for the complete guide featuring video and images, at https://steemit.com/utopian-io/@microoo/hitchhiker-s-guide-to-substratum-node-on-raspberry-pi
 
 ##### 1. What hardware do you need?
 
